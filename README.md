@@ -18,12 +18,9 @@ Each challenge lives in its own folder and comes with:
 
 - [Tracks](#tracks)  
 - [Getting Started](#getting-started)  
-- [Bootstrapping Structure](#bootstrapping-structure)  
-- [How to Play](#how-to-play)  
+- [Bootstrapping Structure](#bootstrapping-structure)   
 - [Directory Layout](#directory-layout)  
-- [Contributing](#contributing)  
-- [Author](#author)  
-- [License](#license)  
+
 
 ---
 
