@@ -1,0 +1,31 @@
+SANTORYU :
+The Blade Sequence 
+🗡 First Blade
+ Zoro starts with a silent strike. It doesn’t leave a mark on the outside—but deep within, it changes everything.
+ Each letter is touched, one by one, using a repeating pattern only he knows.
+ This technique scrambles the message based on a secret phrase. Without the exact same phrase, it’s impossible to reverse.
+🗡 Second Blade
+ Now that the message is scrambled, Zoro wraps it in a disguise.
+ He takes the corrupted version and translates it into something readable, using a popular system.
+ It’s often used in emails and web data something that turns messy symbols into neat ones.
+Hint: It’s a common way to turn binary or raw bytes into a clean string.
+🗡 Third Blade
+ The final strike is a twist. Literally.
+ Every letter is rotated, swapped for another in the alphabet a fixed number of steps away.
+ If you know the pattern, reversing it is easy. In fact, it’s an old-school cipher often used in jokes and simple puzzles.
+Hint: It's a Caesar-style shift. 
+
+⚠️ Important Hint:
+ Each paragraph is more than a story it holds the secret to a transformation.
+ Zoro’s sword style may sound familiar : the key to this challenge is quite as it is .
+
+
+
+
+
+🔐 Encrypted Flag:
+FHAWpIuyJRIxMJgIHQcLByIPo0Wiqj==
+
+
+
+

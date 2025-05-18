@@ -1,0 +1,15 @@
+name: "Great Cipher Wall"
+author: zor_4n6
+description: |
+  Think you’ve got what it takes to outsmart centuries of defense?
+  The Great Cipher Wall has stood unbroken for millennia—its massive stones as unyielding as modern RSA encryption.
+  But whispers say this digital rampart has a hidden weakness… Three fragments, three watchtowers, one secret.
+  Only a true cryptographer can unite these shards, exploit the flaw, and claim victory.
+  Do you dare to prove your mastery?
+  ⚔️ Enter the breach now:
+  
+  GreatCipherWall.py
+  
+  Show the Wall it can be toppled.
+difficulty: "Hard"
+points: "400"

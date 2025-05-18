@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical CTF</title>
+    <style>
+        body {
+            font-family: monospace;
+            background-color: #1e1e1e;
+            color: #f0f0f0;
+            padding: 2em;
+        }
+        .key {
+            background: #333;
+            padding: 10px;
+            margin: 5px 0;
+            border-left: 5px solid #00ffff;
+        }
+        input, button {
+            margin-top: 10px;
+            padding: 8px;
+            font-family: monospace;
+            background: #222;
+            border: 1px solid #444;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧪 Medical Data Security Challenge</h1>
+
+    <pre>{{ story }}</pre>
+
+    <h2>Encrypted Keys</h2>
+    {% for key in encrypted_keys %}
+        <div class="key">{{ key }}</div>
+    {% endfor %}
+
+    <form method="POST">
+        <p>🔍 Where does the real identity come from ?</p>
+        <input type="text" name="town" placeholder="Enter hometown...">
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if submitted %}
+        {% if flag %}
+            <h2>🎉 Congratulations!</h2>
+            <p>Flag: <strong>{{ flag }}</strong></p>
+        {% else %}
+            <p style="color: red;">{{ message }}</p>
+        {% endif %}
+    {% endif %}
+</body>
+</html>

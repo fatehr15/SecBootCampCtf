@@ -1,0 +1,9 @@
+name: "Zedk"
+author: zor_4n6
+description: |
+  Welcome, Innovator .
+  You've been selected to take part in an elite SecBoot RSA Challenge, a mission where your wits and cryptographic skills are your only weapons. Your task is to decrypt the secret messages hidden within encrypted payloads. Each message represents a key component a digital "song" that will unlock the sequence to reveal the ultimate secret.
+  As you progress, you'll be handed pieces of secure information that will be used to simulate a real-world RSA decryption scenario. One wrong move resets your mission, so precision is paramount. The fate of this digital frontier lies in your hands. Prepare yourself for a test of logic, persistence, and mastery of cryptographic puzzles.
+  Your mission begins now. Step forward, decode the messages, and prove your expertise. Embrace the challenge and unlock the secrets of the digital realm.
+difficulty: "mid"
+points: "150"
