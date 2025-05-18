@@ -49,5 +49,5 @@ Each challenge lives in its own folder and comes with:
 ## Getting Started
 
 ```bash
-git clone https://github.com/zor_4n6/secboot-ctf-challenges.git
-cd secboot-ctf-challenges
+git clone https://github.com/fatehr15/SecBootCampCtf.git
+cd SecBootCampCtf
